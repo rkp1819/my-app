@@ -1,3 +1,6 @@
+Tech Stack: React.js, TailwindCSS, google font and google icons.
+
+
 See it Live at : https://expent2.netlify.app/
 
  once in the live demo, use the navigation buttons to switch the UI.
